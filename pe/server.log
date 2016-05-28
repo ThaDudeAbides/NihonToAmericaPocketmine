@@ -1,0 +1,78 @@
+2016-05-28 [21:20:52] [Server thread/INFO]: Loading pocketmine.yml...
+2016-05-28 [21:20:52] [Server thread/INFO]: Loading server properties...
+2016-05-28 [21:20:52] [Server thread/INFO]: Selected English (eng) as the base language
+2016-05-28 [21:20:52] [Server thread/INFO]: Starting Minecraft: PE server version v0.14.3.0 alpha
+2016-05-28 [21:20:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-05-28 [21:20:52] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev "[REDACTED]" (API 2.0.0)
+2016-05-28 [21:20:52] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-05-28 [21:20:52] [Server thread/INFO]: Loading recipes...
+2016-05-28 [21:20:53] [Server thread/NOTICE]: Level "world" not found
+2016-05-28 [21:20:53] [Server thread/INFO]: Preparing level "world"
+2016-05-28 [21:20:53] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2016-05-28 [21:20:53] [Server thread/INFO]: Starting GS4 status listener
+2016-05-28 [21:20:53] [Server thread/INFO]: Setting query port to 19132
+2016-05-28 [21:20:53] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-05-28 [21:20:53] [Server thread/INFO]: Default game type: Creative Mode
+2016-05-28 [21:20:53] [Server thread/INFO]: Done (99.118s)! For help, type "help" or "?"
+2016-05-28 [21:29:57] [Server thread/INFO]: Loading pocketmine.yml...
+2016-05-28 [21:29:57] [Server thread/INFO]: Loading server properties...
+2016-05-28 [21:29:57] [Server thread/INFO]: Selected English (eng) as the base language
+2016-05-28 [21:30:08] [Server thread/INFO]: Loading pocketmine.yml...
+2016-05-28 [21:30:08] [Server thread/INFO]: Loading server properties...
+2016-05-28 [21:30:08] [Server thread/INFO]: Selected English (eng) as the base language
+2016-05-28 [21:30:08] [Server thread/INFO]: Starting Minecraft: PE server version v0.14.3.0 alpha
+2016-05-28 [21:30:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-05-28 [21:30:08] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev "[REDACTED]" (API 2.0.0)
+2016-05-28 [21:30:08] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-05-28 [21:30:08] [Server thread/INFO]: Loading recipes...
+2016-05-28 [21:30:08] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2016-05-28 [21:30:08] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2016-05-28 [21:30:08] [Server thread/EMERGENCY]: RakLib crashed!
+2016-05-28 [21:30:09] [Server thread/INFO]: Preparing level "world"
+2016-05-28 [21:30:09] [Server thread/INFO]: Starting GS4 status listener
+2016-05-28 [21:30:09] [Server thread/INFO]: Setting query port to 19132
+2016-05-28 [21:30:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-05-28 [21:30:09] [Server thread/INFO]: Default game type: Creative Mode
+2016-05-28 [21:30:09] [Server thread/INFO]: Done (0.57s)! For help, type "help" or "?"
+2016-05-28 [21:30:09] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed
+2016-05-28 [21:30:13] [Server thread/INFO]: Unloading level "world"
+2016-05-28 [21:30:18] [Server thread/INFO]: Stopping other threads
+2016-05-28 [21:32:06] [Server thread/INFO]: Loading pocketmine.yml...
+2016-05-28 [21:32:06] [Server thread/INFO]: Loading server properties...
+2016-05-28 [21:32:06] [Server thread/INFO]: Selected English (eng) as the base language
+2016-05-28 [21:32:06] [Server thread/INFO]: Starting Minecraft: PE server version v0.14.3.0 alpha
+2016-05-28 [21:32:06] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-05-28 [21:32:06] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev "[REDACTED]" (API 2.0.0)
+2016-05-28 [21:32:06] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-05-28 [21:32:06] [Server thread/INFO]: Loading recipes...
+2016-05-28 [21:32:06] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2016-05-28 [21:32:06] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2016-05-28 [21:32:06] [Server thread/EMERGENCY]: RakLib crashed!
+2016-05-28 [21:32:07] [Server thread/INFO]: Preparing level "world"
+2016-05-28 [21:32:07] [Server thread/INFO]: Starting GS4 status listener
+2016-05-28 [21:32:07] [Server thread/INFO]: Setting query port to 19132
+2016-05-28 [21:32:07] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-05-28 [21:32:07] [Server thread/INFO]: Default game type: Creative Mode
+2016-05-28 [21:32:07] [Server thread/INFO]: Done (0.394s)! For help, type "help" or "?"
+2016-05-28 [21:32:07] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed
+2016-05-28 [21:33:01] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2016-05-28 [21:33:01] [Server thread/EMERGENCY]: Please upload the "/home/ubuntu/PocketMine2/CrashDump_Sat_May_28-21.33.01-UTC_2016.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2016-05-28 [21:33:01] [Server thread/INFO]: Unloading level "world"
+2016-05-28 [21:34:26] [Server thread/INFO]: Loading pocketmine.yml...
+2016-05-28 [21:34:26] [Server thread/INFO]: Loading server properties...
+2016-05-28 [21:34:26] [Server thread/INFO]: Selected English (eng) as the base language
+2016-05-28 [21:34:26] [Server thread/INFO]: Starting Minecraft: PE server version v0.14.3.0 alpha
+2016-05-28 [21:34:26] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-05-28 [21:34:26] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev "[REDACTED]" (API 2.0.0)
+2016-05-28 [21:34:26] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-05-28 [21:34:26] [Server thread/INFO]: Loading recipes...
+2016-05-28 [21:34:26] [Server thread/INFO]: Preparing level "world"
+2016-05-28 [21:34:26] [Server thread/INFO]: Starting GS4 status listener
+2016-05-28 [21:34:26] [Server thread/INFO]: Setting query port to 19132
+2016-05-28 [21:34:26] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-05-28 [21:34:26] [Server thread/INFO]: Default game type: Creative Mode
+2016-05-28 [21:34:26] [Server thread/INFO]: Done (0.401s)! For help, type "help" or "?"
+2016-05-28 [21:35:47] [Server thread/INFO]: Loading pocketmine.yml...
+2016-05-28 [21:35:47] [Server thread/INFO]: Loading server properties...
+2016-05-28 [21:35:47] [Server thread/INFO]: Selected English (eng) as the base language
+2016-05-28 [21:36:19] [Server thread/INFO]: Unloading level "world"
